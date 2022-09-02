@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "Cual es el apellido de Naruto",
+        "respuestas": [
+          { "texto": "Uchiha" },
+          { "texto": "Hatake" },
+          { "texto": "Uzumaki" },
+          { "texto": "Nagato" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Quien es el creador de Naruto",
+        "respuestas": [
+          { "texto": "Akira Toriyama" },
+          { "texto": "Masashi Kishimoto" },
+          { "texto": "Hiro Mashima" },
+          { "texto": "Kohei Horikoshi" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Cual es el nombre del papa de Naruto",
+        "respuestas": [
+          { "texto": "Kakashi" },
+          { "texto": "Itachi" },
+          { "texto": "Minato" },
+          { "texto": "Nagato" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Rock Lee es experto en:",
+        "respuestas": [
+          { "texto": "Genjutsu" },
+          { "texto": "Ninjutsu" },
+          { "texto": "Todas las anteriores" },
+          { "texto": "Taijutsu" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Cuantas son las Grandes aldeas que existen en el anime de Naruto",
+        "respuestas": [
+          { "texto": "2" },
+          { "texto": "3" },
+          { "texto": "5" },
+          { "texto": "10" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "Que estudio animo la adaptacion de Naruto",
+        "respuestas": [
+          { "texto": "Studio Pierrot" },
+          { "texto": "Toei Animation" },
+          { "texto": "Studios Gibli" },
+          { "texto": "Shueisha" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Es el fundador de Konohagakure",
+        "respuestas": [
+          { "texto": "Madara Uchiha" },
+          { "texto": "Hiruzen Sarutobi" },
+          { "texto": "Tobirama Senju" },
+          { "texto": "Hashirama Senju" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Es el sobrenombre del papa de Naruto",
+        "respuestas": [
+          { "texto": "Gama Sennin" },
+          { "texto": "Kurama" },
+          { "texto": "Destello amarillo de Konoha" },
+          { "texto": "Quinto Hokage" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Hasta la actualidad en el anime de Boruto, cuantos hokages hay",
+        "respuestas": [
+          { "texto": "2" },
+          { "texto": "7" },
+          { "texto": "5" },
+          { "texto": "8" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Como le decia Naruto a Jiraya",
+        "respuestas": [
+          { "texto": "Ero Sennin" },
+          { "texto": "Destello amarillo" },
+          { "texto": "Pain" },
+          { "texto": "El ninja que copia" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "Donde se encuentran los insectos que Shino Aburame usa en la lucha",
+        "respuestas": [
+          { "texto": "Los tiene escondidos en su enorme abrigo" },
+          { "texto": "Los invoca en la lucha con una tecnica ninja" },
+          { "texto": "Viven dentro de el" },
+          { "texto": "Los llama y hace venir a todos los insectos de la zona para que luchen" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Que personaje esta inspirado en Bruce Lee",
+        "respuestas": [
+          { "texto": "Rock Lee" },
+          { "texto": "Shino Aburame" },
+          { "texto": "Naruto Uzumaki" },
+          { "texto": "Neji Hyuga" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "En que tipo de ninja se especializa Sakura Haruno casi al final de la serie",
+        "respuestas": [
+          { "texto": "Ninja ilusorio" },
+          { "texto": "Ninja mensajero" },
+          { "texto": "Ninja cocinero" },
+          { "texto": "Ninja medico" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Que organizacion pretende dar caza a los jinchuriki",
+        "respuestas": [
+          { "texto": "ANBU" },
+          { "texto": "Gran Alianza Shinobi" },
+          { "texto": "Akatsuki" },
+          { "texto": "Orochimarus Corp'" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Cuantas fases tiene el sello maldito que otorga Orochimaru",
+        "respuestas": [
+          { "texto": "2" },
+          { "texto": "6" },
+          { "texto": "1" },
+          { "texto": "3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "Es la tecnica ocular mas poderosa del mundo ninja",
+        "respuestas": [
+          { "texto": "Tenseigan" },
+          { "texto": "Rinnegan" },
+          { "texto": "Byakugan" },
+          { "texto": "Sharingan" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Fue el ninja que creo el Rasengan:",
+        "respuestas": [
+          { "texto": "Naruto Uzumaki" },
+          { "texto": "Minato Namikaze" },
+          { "texto": "Boruto Uzumaki" },
+          { "texto": "Jiraiya" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "En que annio se estreno el anime de Naruto Shippuden",
+        "respuestas": [
+          { "texto": "2007" },
+          { "texto": "2008" },
+          { "texto": "2009" },
+          { "texto": "2005" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Como se llama el bijuu que tiene Naruto en su interior",
+        "respuestas": [
+          { "texto": "Son Goku" },
+          { "texto": "Gyuki" },
+          { "texto": "Shukaku" },
+          { "texto": "Kurama" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Quien fue el maestro de Kakashi Hatake",
+        "respuestas": [
+          { "texto": "Tercer Hokage" },
+          { "texto": "Jiraiya" },
+          { "texto": "Cuarto Hokage" },
+          { "texto": "No se muestra" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "Segun Itachi que es lo que tiene que hacer Sasuke para activar el Mangekyo Sharingan",
+        "respuestas": [
+          { "texto": "Matar a su mejor amigo." },
+          { "texto": "Matar a su familia" },
+          { "texto": "Se activa en un momento de peligro durante una batalla/pelea" },
+          { "texto": "Tener un nivel de Jonin" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Que personaje de Naruto sella los jutsus de Orochimaru",
+        "respuestas": [
+          { "texto": "Primer Hokage" },
+          { "texto": "Hiruzen Sarutobi" },
+          { "texto": "Madara Uchiha" },
+          { "texto": "Sakura Haruno" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "Cual es el nombre del sabio de los 6 caminos",
+        "respuestas": [
+          { "texto": "Naruto Uzumaki" },
+          { "texto": "Senju Hashirama" },
+          { "texto": "Madara Uchiha" },
+          { "texto": "Hagoromo Otsutsuki" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cuantos openings y endings ha tenido Naruto a lo largo de sus 220 capitulos?",
+        "respuestas": [
+          { "texto": "9 openings y 15 endings" },
+          { "texto": "15 openings y 20 endings" },
+          { "texto": "10 openings y 10 endings" },
+          { "texto": "15 openings y 10 endings" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Cuantos annios necesita Orochimaru para poder 'pasar' al cuerpo de Sasuke?",
+        "respuestas": [
+          { "texto": "3" },
+          { "texto": "6" },
+          { "texto": "2" },
+          { "texto": "1" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  }
+]
