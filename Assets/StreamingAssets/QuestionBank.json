@@ -115,10 +115,10 @@
       {
         "enunciado": "Donde se encuentran los insectos que Shino Aburame usa en la lucha",
         "respuestas": [
-          { "texto": "Los tiene escondidos en su enorme abrigo" },
-          { "texto": "Los invoca en la lucha con una tecnica ninja" },
+          { "texto": "Los tiene escondidos" },
+          { "texto": "Los invoca con una tecnica ninja" },
           { "texto": "Viven dentro de el" },
-          { "texto": "Los llama y hace venir a todos los insectos de la zona para que luchen" }
+          { "texto": "Los llama para que luchen" }
         ],
         "respuestaCorrecta": 2
       },
@@ -227,8 +227,8 @@
         "respuestas": [
           { "texto": "Matar a su mejor amigo." },
           { "texto": "Matar a su familia" },
-          { "texto": "Se activa en un momento de peligro durante una batalla/pelea" },
-          { "texto": "Tener un nivel de Jonin" }
+          { "texto": "Se activa cuando hay peligro" },
+          { "texto": "Ser Jonin" }
         ],
         "respuestaCorrecta": 0
       },
